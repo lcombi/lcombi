@@ -1,9 +1,9 @@
 ### Luc Combi
-I'm an astrophysicist working on compact objects and gravitation. I'm a CONICET fellow, developing my PhD in the [Argentine Institute of Radioastronomy](https://www.iar.unlp.edu.ar/). I collaborate with people in the Rochester Institute of Technology, Perimeter Institute, and others.
+I'm an astrophysicist working on compact objects and gravitation. I'm a CONICET fellow, developing my PhD in the [Argentine Institute of Radioastronomy](https://www.iar.unlp.edu.ar/). 
 
 
-- 💻 My work focuses on modelling the electromagnetic emission of supermassive black hole binaries and binary neutron star mergers using semi-analytical methods and simulations. I'm working with MHD codes such as Harm3D and the Einstein Toolkit, as well as other tools such as GAMERA for calculating the non-thermal radiation of astrophysical scenarios.
-- 🔭 I'm a member of the [PuMA](http://puma.iar.unlp.edu.ar/) collaboration, dedicated to observe radio pulsars from Latin America for the first time.
+- 💻 My work focuses on modelling the electromagnetic emission of supermassive black hole binaries (with collaborators at RIT) and binary neutron star mergers (with collaborators at Perimeter Institute) using simulations and semi-analytical methods. In particular, I use GRMHD codes such as Harm3D and the Einstein Toolkit, as well as other tools such as GAMERA for calculating the non-thermal radiation of astrophysical scenarios.
+- 🔭 I'm a member of the [PuMA](http://puma.iar.unlp.edu.ar/) collaboration, dedicated to observe radio pulsars  for the first time in Latin America.
 - ✍️ I'm also interested in the philosophy of science and foundational issues in physics.
 
 <hr>
